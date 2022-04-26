@@ -1,6 +1,6 @@
 ## Olá, eu sou o Matheus Russo
 
-- 🔭 Buscando meu primeiro emprego na área
+- 🔭 Buscando meu primeiro trabalho na área
 - 🌱 Estudando desenvolvimento WEB
 
 <div align="center">
