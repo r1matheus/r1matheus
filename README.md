@@ -1,8 +1,5 @@
 ## Olá, eu sou o Matheus Russo
-
-- 🔭 Buscando meu primeiro trabalho na área
-- 🌱 Estudando desenvolvimento WEB
-- ✉ russomatheus15@gmail.com
+ ✉ russomatheus15@gmail.com
 
 <div align="center">
   <a href="https://github.com/r1matheus">
